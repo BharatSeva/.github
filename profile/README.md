@@ -6,8 +6,8 @@ This Project Consists of two WebApps :
 2. [User InterFace](https://bharatsevaplus-user.netlify.app/)
 
 These Two Apps Works Concurrently to provide services to its User.
-The BharatSeva HealthCare InterFace is Healthcare Platform that works for HIPs that generate Health Logs such as Bio-data, Health Records and provide benefits to User/Patients.  
-On the Otherhand BharatSeva User InterFace Provide Services to end-user, normal people, patient whom data would be genrated and records will be Logged!  
+- The BharatSeva HealthCare InterFace is Healthcare portal that works for HIPs that generate Health Logs such as Bio-data, Health Records and provide benefits to User/Patients.  
+- On the Otherhand BharatSeva User portal Provide Services to end-user, normal people, patient whom data would be generated and records will be Logged!  
 
 With its user-friendly interface and powerful features, BharatSeva+ becomes your trusted companion for logging records, making appointments, and maintaining comprehensive health records.
 ### What it does ?
@@ -22,6 +22,10 @@ With its user-friendly interface and powerful features, BharatSeva+ becomes your
 
 #### Personalized Health Insights*: 
 - Bharat Seva+ goes beyond record-keeping by offering personalized health insights. The app analyzes your health data and provides valuable information, such as trends, patterns, and recommendations. With this knowledge at your fingertips, you can make informed decisions about your well-being, proactively manage your health, and achieve your wellness goals.
+
+### Challenges we've !
+- There's still lot of things I've to implement, wheather it is related to writing quality code or implementing new features that must be maintainable in long run, I'm still learning and constantly improving myself. Thanks to opensource, entire developers community we're making it happen.
+- Return soon ⌛ :).
 
 _Embrace the future of healthcare management with Bharat Seva+._  
 Visit Website today! and experience the convenience, efficiency, and peace of mind that comes with having your personal healthcare companion. Take control of your health journey like never before.
