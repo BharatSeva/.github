@@ -23,6 +23,12 @@ With its user-friendly interface and powerful features, BharatSeva+ becomes your
 #### Personalized Health Insights*: 
 - Bharat Seva+ goes beyond record-keeping by offering personalized health insights. The app analyzes your health data and provides valuable information, such as trends, patterns, and recommendations. With this knowledge at your fingertips, you can make informed decisions about your well-being, proactively manage your health, and achieve your wellness goals.
 
+#### Tech Stack
+- Till now I've implemented a front-end with react, Express Server, and docker.
+- It uses MongoDB, Firebase as a database, OAUTH2.0 for authentication, JWT for session, in Express Server.
+- I'm planning to have Redis, AWS S3, Elasticsearch, Golang Server, Rust - for security and memory, django server to handle the huge amount of load efficiently.
+- Shift from monolithic to microservices.  
+
 ### Challenges we've !
 - There's still lot of things I've to implement, wheather it is related to writing quality code or implementing new features that must be maintainable in long run, I'm still learning and constantly improving myself. Thanks to opensource, entire developers community we're making it happen.
 - Return soon ⌛ :).
