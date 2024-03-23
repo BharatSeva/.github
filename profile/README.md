@@ -1,6 +1,9 @@
 ## Welcome to Bharat Seva +  
 > Website still under-development, we're accessing our ideas, but there's a lot of work to be done on the development side to make it accessible to everyone without paying extortionate-levels of money.
 
+This is MERN + Firebase Stack project that Make Appointments between Patient and Healthcares, Log Records (Patient details regarding health), Support Video-Text messages* (Upcoming in future update), and allow healthcares to search patients for vaccination or health check up programs. 
+It Eliminates traditional paper log method where a patient take his/her records from healthcares regarding their health Issue and later on it get thrown away or it get lost anywhere, which if put together, compiled can give a lot of information for their health and even it can detect symptoms earlier than it would actually arrive which could actually potentially help patient from life threatning illness.
+
 This Project Consists of two WebApps :
 1. [HealthCare InterFace](https://bharatsevaplus-healthcare.netlify.app/)
 2. [User InterFace](https://bharatsevaplus-user.netlify.app/)
