@@ -83,7 +83,14 @@ There’s still a lot to learn and implement, from writing maintainable code to 
 
 ---
 
+## Contributions
+Please find a CONTRIBUTING.md file on repo of this organisation, and make sure ```hacktoberfest``` and ```hactoberfest2024``` are marked.  
+If you've any doubt you can connect me on linkedin or you can mail on id provided above.  
+Happy Contributions! 
+
+---
+
 ### Bharat Seva+ - Your Wellbeing, Simplified.
 
-_Project written and managed by **Vaibhav Yadav**_
+_Project managed by [**Vaibhav Yadav**](https://www.linkedin.com/in/vaibhav-yadav-4397351b9/)_ 
 
