@@ -12,11 +12,11 @@ Healthcare professionals can search for patients for vaccinations or health chec
 
 This project consists of **two web apps**:
 
-1. **Healthcare Interface** [visit](https://bharatsevaplus-healthcare.netlify.app/)  
+1. **Healthcare Interface** [↗️](https://github.com/BharatSeva/BharatSeva-Plus-HealthCare-Interface)    
    A portal for healthcare professionals (HIPs) to generate and manage health logs like biodata, health records, and more.
 
-2. **User Interface** [visit](https://bharatsevaplus-user.netlify.app/)  
-   A patient-facing portal where users can access their records, make appointments, and avail other healthcare services.
+2. **User Interface** [↗️](https://github.com/BharatSeva/BharatSeva-Plus-User-Interface)  
+   A patient-facing portal where users can access their records, make appointments, and avail other healthcare services (also refered as Patient portal or enduser).
 
 Both interfaces work together to provide seamless healthcare management services.
 
@@ -51,19 +51,22 @@ Health records are stored securely in the cloud, making them easily accessible w
 
 Here’s what I’ve implemented so far:
 
-- A front-end built with React
+- Two Front-end (User and Healthcare) built with React.js
 - Backend API using Express.js
 - Docker for containerization
 - MongoDB and Firebase as the database
 - OAuth 2.0 and JWT for authentication and session management
+- NodeMailer for email notifications.
 
 ### Upcoming Features:
 
 - **Redis** for caching  
+- **Kubernetes** for Container orchestration    
 - **AWS S3** for cloud file storage  
-- **Elasticsearch** for search functionality  
+- **Elasticsearch** for search functionality of healthcare
 - **Golang** server for optimized performance  
 - **Django** to handle large-scale traffic loads
+- **Prometheus and Grafana** to collect and stores metric data as time-series data, and for analytics and visualization of Express application.
 
 ### Future Plans:
 - Transition from a monolithic architecture to microservices
@@ -79,18 +82,18 @@ There’s still a lot to learn and implement, from writing maintainable code to 
 
 ## Embrace the Future of Healthcare
 
-**Bharat Seva+** is just getting started! I’m excited to keep building and enhancing this project to provide the best healthcare management solution. Whether you're a patient or a healthcare provider, this platform is designed to make managing health records simple and effective.
+**Bharat Seva+** started! I’m excited to keep building and enhancing this project to provide the best healthcare management solution. Whether you're a patient or a healthcare provider, this platform is designed to make managing health records simple and effective.
 
 ---
 
 ## Contributions
 Please find a CONTRIBUTING.md file on repo of this organisation, and make sure ```hacktoberfest``` and ```hactoberfest2024``` are marked.  
-If you've any doubt you can connect me on linkedin or you can mail on id provided above.  
+If you've any doubt you can drop message on Telegram[↗️](https://t.me/+8sy5M-KU5cNmZWZl) or you can mail on id provided above.  
 Happy Contributions! 
 
 ---
 
 ### Bharat Seva+ - Your Wellbeing, Simplified.
 
-_Project managed by [**Vaibhav Yadav**](https://www.linkedin.com/in/vaibhav-yadav-4397351b9/)_ 
+_Project developed and managed by [**Vaibhav Yadav**](https://www.linkedin.com/in/vaibhav-yadav-4397351b9/)_ 
 
