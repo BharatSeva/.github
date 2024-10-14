@@ -95,7 +95,7 @@ There’s still a lot to learn and implement, from writing maintainable code to 
 
 ## Contributions
 Please find a CONTRIBUTING.md file on repo of this organisation, and make sure ```hacktoberfest``` and ```hactoberfest2024``` are marked.  
-If you've any doubt you can drop message on Telegram[↗️](https://t.me/+8sy5M-KU5cNmZWZl) or you can mail on id provided above.  
+If you've any doubt you can start discussions.  
 Happy Contributions! 
 
 ---
