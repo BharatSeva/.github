@@ -86,6 +86,13 @@ There’s still a lot to learn and implement, from writing maintainable code to 
 
 ---
 
+## Project Architecture  
+
+
+![diagram-export-14-10-2024-12_01_41](https://github.com/user-attachments/assets/ae4b8c16-3355-456f-8fbc-5595650dbd64)
+
+---
+
 ## Contributions
 Please find a CONTRIBUTING.md file on repo of this organisation, and make sure ```hacktoberfest``` and ```hactoberfest2024``` are marked.  
 If you've any doubt you can drop message on Telegram[↗️](https://t.me/+8sy5M-KU5cNmZWZl) or you can mail on id provided above.  
