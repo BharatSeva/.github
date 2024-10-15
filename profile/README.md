@@ -61,11 +61,10 @@ Here’s what I’ve implemented so far:
 ### Upcoming Features:
 
 - **Redis** for caching  
-- **Kubernetes** for Container orchestration    
 - **AWS S3** for cloud file storage  
 - **Elasticsearch** for search functionality of healthcare
 - **Golang** server for optimized performance  
-- **Django** to handle large-scale traffic loads
+- **PostgreSQL** to handle advance querying, and to perform large data analytics.
 - **Prometheus and Grafana** to collect and stores metric data as time-series data, and for analytics and visualization of Express application.
 
 ### Future Plans:
