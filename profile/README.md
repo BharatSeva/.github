@@ -58,12 +58,13 @@ Here’s what I’ve implemented so far:
 - OAuth 2.0 and JWT for authentication and session management
 - NodeMailer for email notifications.
 
+## Target : Scale this application for Massive 50 Million Users 🚀
 ### Upcoming Features:
-
-- **Redis** for caching  
-- **AWS S3** for cloud file storage  
+- **Redis** for caching frequently accessed data
+- **RabbitMQ** ensures the application can process tasks asynchronously.  
+- **NGINX** for Traffic Management and Load balancing
 - **Elasticsearch** for search functionality of healthcare
-- **Golang** server for optimized performance  
+- **Golang** server for optimized performance, scalability, and concurrency
 - **PostgreSQL** to handle advance querying, and to perform large data analytics.
 - **Prometheus and Grafana** to collect and stores metric data as time-series data, and for analytics and visualization of Express application.
 
