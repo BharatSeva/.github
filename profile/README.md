@@ -88,9 +88,7 @@ There’s still a lot to learn and implement, from writing maintainable code to 
 
 ## Project Architecture  
 
-
-![diagram-export-14-10-2024-12_01_41](https://github.com/user-attachments/assets/ae4b8c16-3355-456f-8fbc-5595650dbd64)
-
+![image](https://github.com/user-attachments/assets/0a9e6546-7c3f-49f4-8fcd-0121b75e20d5)
 ---
 
 ## Contributions
