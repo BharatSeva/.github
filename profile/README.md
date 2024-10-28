@@ -52,21 +52,21 @@ Health records are stored securely in the cloud, making them easily accessible w
 Here’s what I’ve implemented so far:
 
 - Two Front-end (User and Healthcare) built with React.js
-- Backend API using Express.js
-- Docker for containerization
-- MongoDB and Firebase as the database
-- OAuth 2.0 and JWT for authentication and session management
-- NodeMailer for email notifications.
+- **Golang** server for optimized performance, scalability, and concurrency
 - **Redis** for caching frequently accessed data
 - **RabbitMQ** ensures the application can process tasks asynchronously.  
-- **Golang** server for optimized performance, scalability, and concurrency
+- **Python Consumer** Service for logs, appointment, medical records, and email notifications.
 - **PostgreSQL** to handle advance querying, and to perform large data analytics.
+- **Prometheus and Grafana** to collect and stores metric data as time-series data, and for analytics and visualization of Express application.
+- Backend API using Express.js
+- **Docker** for containerization
+- MongoDB and Firebase as the database
+- OAuth 2.0 and JWT for authentication and session management
 
 ## Target : Scale this application for Massive 50 Million Users 🚀
 ### Upcoming Features:
 - **NGINX** for Traffic Management and Load balancing
 - **Elasticsearch** for search functionality of healthcare
-- **Prometheus and Grafana** to collect and stores metric data as time-series data, and for analytics and visualization of Express application.
 
 ### Future Plans:
 - Transition from a monolithic architecture to microservices
