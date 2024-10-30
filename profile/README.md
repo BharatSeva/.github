@@ -40,9 +40,9 @@ Health records are stored securely in the cloud, making them easily accessible w
 
 ## Current Tech Stack
 
-- **Frontend**: React  
-- **Backend**: Express.js  
-- **Database**: MongoDB, Firebase, and PostgreSQL  
+- **Frontend**: React.js, Tailwind  
+- **Backend**: Express.js and Golang    
+- **Database**: MongoDB, Redis, RabbitMQ, and PostgreSQL  
 - **Authentication**: OAuth 2.0, JWT (for sessions)  
 
 ---
@@ -51,14 +51,13 @@ Health records are stored securely in the cloud, making them easily accessible w
 
 Here’s what I’ve implemented so far:
 
-- Two Front-end (User and Healthcare) built with React.js
-- **Golang** server for optimized performance, scalability, and concurrency
+- Two Front-end (User and Healthcare) built with React.js and Tailwind  
+- **Golang** healthcare server for optimized performance, scalability, and concurrency
 - **Redis** for caching frequently accessed data
 - **RabbitMQ** ensures the application can process tasks asynchronously.  
 - **Python Consumer** Service for logs, appointment, medical records, and email notifications.
 - **PostgreSQL** to handle advance querying, and to perform large data analytics.
-- **Prometheus and Grafana** to collect and stores metric data as time-series data, and for analytics and visualization of Express application.
-- Backend API using Express.js
+- **Node.js** user server, built with Express.js.  
 - **Docker** for containerization
 - MongoDB and Firebase as the database
 - OAuth 2.0 and JWT for authentication and session management
@@ -66,6 +65,7 @@ Here’s what I’ve implemented so far:
 ## Target : Scale this application for Massive 50 Million Users 🚀
 ### Upcoming Features:
 - **NGINX** for Traffic Management and Load balancing
+- **Prometheus and Grafana** to collect and stores metric data as time-series data, and for analytics and visualization of Express application.
 - **Elasticsearch** for search functionality of healthcare
 
 ### Future Plans:
