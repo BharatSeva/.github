@@ -42,6 +42,3 @@ We welcome contributions! Please follow these steps to contribute:
 
 ## License
 This project is licensed. See the LICENSE file for details.
-
-## Contact
-For any inquiries or support, please contact us at 21vaibhav11@gmail.com.
